@@ -2,7 +2,7 @@
   "cyberpunk": "#zwx# person,portrait+, wearing cyberpunk clothing,closeup,cyberpunk world, in frame, sci-fi, fantasy,volumetric lighting, kodak portrait 400, 8k, soft light, intricate, elegant, detailed features, intricate, highly detailed face",
   "superhero": "#zwx# person,portrait+, as superhero, wearing in hero costume, super, flash, global illumination lighting,in frame, highly detailed face, 4k, fantasy, detailed, halfbody",
   "cartoon": "#zwx# person,portrait+, vector illustration, vector art, s clean lines, clip art, colored background, in frame, pinterest, artstation, deviantart",
-  "portrait": "illustration, #zwx# person,portrait+,  volumetric lighting, highly detailed face, in frame",
-  "anime": "anime, illustration,#zwx# person,portrait+, animated, very detailed, 4K quality, super realistic, in frame",
+  "portrait": "#zwx# person, illustration, portrait+,  volumetric lighting, highly detailed face, in frame",
+  "anime": "#zwx# person,portrait+, anime, illustration, animated, very detailed, 4K quality, super realistic, in frame",
   "videogame": "#zwx# person, cartoon, portrait+, 8bit, maya engine on stylized background, global illumination lighting, trending on artstation, in frame"
 }
